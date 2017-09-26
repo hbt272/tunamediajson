@@ -1,0 +1,8 @@
+{
+	"package": "com.tunamedia.volleyballhub",
+	"isTesting": false,
+	"showAd": true,
+	"showAdPercent": 0.6,
+	"showAdSequencePercent": 0.36,
+	"volleyWoodLink": "volleywood.net"
+}

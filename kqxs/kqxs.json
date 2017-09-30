@@ -1,0 +1,216 @@
+{
+	"package": "com.tunamedia.kqxs",
+	"isTesting": false,
+	"showAd": false,
+	"showAdPercent": 0.7,
+	"showAdSequencePercent": 0.4,
+	"corsLink": "https://cors-anywhere.herokuapp.com/",
+	"kqxsLink": "",
+	"moreAppsUrl": "hbt272.github.io/tunamediajson/appsinfo/ds-app-tunamedia.json",
+	"adID":
+	{
+		"android":
+		{
+			"banner": "ca-app-pub-8525780142236607/9390291171",
+			"interstitial": "ca-app-pub-8525780142236607/3343757576",
+			"video": "ca-app-pub-8525780142236607/4820490774",
+			"base": ""
+		},
+		"ios":
+		{
+			"banner": "",
+			"interstitial": "",
+			"video": "",
+			"custom": ""
+		},
+		"winphone":
+		{
+			"banner": "",
+			"interstitial": "",
+			"video": "",
+			"custom": ""
+		}
+	},
+	"channels": [
+	{
+		"name": "An Giang",
+		"code": "an-giang-xsag",
+		"day": [4, 8]
+	},
+	{
+		"name": "Bạc Liêu",
+		"code": "bac-lieu-xsbl",
+		"day": [2, 8]
+	},
+	{
+		"name": "Bến Tre",
+		"code": "ben-tre-xsbt",
+		"day": [2, 8]
+	},
+	{
+		"name": "Bình Dương",
+		"code": "binh-duong-xsbd",
+		"day": [5, 8]
+	},
+	{
+		"name": "Bình Định",
+		"code": "binh-dinh-xsbdi",
+		"day": [4, 8]
+	},
+	{
+		"name": "Bình Phước",
+		"code": "binh-phuoc-xsbp",
+		"day": [6, 8]
+	},
+	{
+		"name": "Bình Thuận",
+		"code": "binh-thuan-xsbth",
+		"day": [4, 8]
+	},
+	{
+		"name": "Cà Mau",
+		"code": "ca-mau-xscm",
+		"day": [1, 8]
+	},
+	{
+		"name": "Cần Thơ",
+		"code": "can-tho-xsct",
+		"day": [3, 8]
+	},
+	{
+		"name": "Đak Lak",
+		"code": "dak-lak-xsdlk",
+		"day": [2, 8]
+	},
+	{
+		"name": "Đà Lạt",
+		"code": "da-lat-xsdl",
+		"day": [0, 8]
+	},
+	{
+		"name": "Đà Nẵng",
+		"code": "da-nang-xsdng-xsdna",
+		"day": [3, 6, 8]
+	},
+	{
+		"name": "Đắc Nông",
+		"code": "dak-nong-xsdno",
+		"day": [6, 8]
+	},
+	{
+		"name": "Đồng Nai",
+		"code": "dong-nai-xsdn",
+		"day": [3, 8]
+	},
+	{
+		"name": "Đồng Tháp",
+		"code": "dong-thap-xsdt",
+		"day": [1, 8]
+	},
+	{
+		"name": "Gia Lai",
+		"code": "gia-lai-xsgl",
+		"day": [5, 8]
+	},
+	{
+		"name": "Hậu Giang",
+		"code": "hau-giang-xshg",
+		"day": [6, 8]
+	},
+	{
+		"name": "Kiêng Giang",
+		"code": "kien-giang-xskg",
+		"day": [0, 8]
+	},
+	{
+		"name": "Khánh Hòa",
+		"code": "khanh-hoa-xskh",
+		"day": [0, 3, 8]
+	},
+	{
+		"name": "Kon Tum",
+		"code": "kon-tum-xskt",
+		"day": [0, 8]
+	},
+	{
+		"name": "Long An",
+		"code": "long-an-xsla",
+		"day": [6, 8]
+	},
+	{
+		"name": "Miền Bắc",
+		"code": "mien-bac-xsmb",
+		"day": [0, 1, 2, 3, 4, 5, 6, 8]
+	},
+	{
+		"name": "Ninh Thuận",
+		"code": "ninh-thuan-xsnt",
+		"day": [5, 8]
+	},
+	{
+		"name": "Phú Yên",
+		"code": "phu-yen-xspy",
+		"day": [1, 8]
+	},
+	{
+		"name": "Quảng Bình",
+		"code": "quang-binh-xsqb",
+		"day": [4, 8]
+	},
+	{
+		"name": "Quảng Nam",
+		"code": "quang-nam-xsqna",
+		"day": [2, 8]
+	},
+	{
+		"name": "Quảng Ngãi",
+		"code": "quang-ngai-xsqng",
+		"day": [6, 8]
+	},
+	{
+		"name": "Quảng Trị",
+		"code": "quang-tri-xsqt",
+		"day": [4, 8]
+	},
+	{
+		"name": "Sóc Trăng",
+		"code": "soc-trang-xsst",
+		"day": [3, 8]
+	},
+	{
+		"name": "Tây Ninh",
+		"code": "tay-ninh-xstn",
+		"day": [4, 8]
+	},
+	{
+		"name": "Tiền Giang",
+		"code": "tien-giang-xstg",
+		"day": [0, 8]
+	},
+	{
+		"name": "TP. HCM",
+		"code": "tphcm-xstp-xshcm",
+		"day": [1, 6, 8]
+	},
+	{
+		"name": "Trà Vinh",
+		"code": "tra-vinh-xstv",
+		"day": [5, 8]
+	},
+	{
+		"name": "TT Huế",
+		"code": "thua-thien-hue-xstth",
+		"day": [1, 8]
+	},
+	{
+		"name": "Vĩnh Long",
+		"code": "vinh-long-xsvl",
+		"day": [5, 8]
+	},
+	{
+		"name": "Vũng Tàu",
+		"code": "vung-tau-xsvt",
+		"day": [2, 8]
+	}],
+	"intro": "<b>Ứng Dụng Xem TT KQXS, Mega 6/45 6/55 Max 4D</b><br>A Project Developed by Tuna Media<br><br><p>For Contact - Coop: hbt272@gmail.com</p>"
+}

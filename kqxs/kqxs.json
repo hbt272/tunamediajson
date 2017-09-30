@@ -1,11 +1,11 @@
 {
 	"package": "com.tunamedia.kqxs",
 	"isTesting": false,
-	"showAd": false,
+	"showAd": true,
 	"showAdPercent": 0.7,
 	"showAdSequencePercent": 0.4,
 	"corsLink": "https://cors-anywhere.herokuapp.com/",
-	"kqxsLink": "",
+	"kqxsLink": "http://xskt.com.vn",
 	"moreAppsUrl": "hbt272.github.io/tunamediajson/appsinfo/ds-app-tunamedia.json",
 	"adID":
 	{
@@ -212,5 +212,5 @@
 		"code": "vung-tau-xsvt",
 		"day": [2, 8]
 	}],
-	"intro": "<b>Ứng Dụng Xem TT KQXS, Mega 6/45 6/55 Max 4D</b><br>A Project Developed by Tuna Media<br><br><p>For Contact - Coop: hbt272@gmail.com</p>"
+	"intro": "<b>Ứng Dụng Xem Trực tiếp KQXS, Mega 6/45 6/55 Max 4D, xsmb, xsmn, xsmt</b><br>A Project Developed by Tuna Media<br><br><p>For Contact - Coop: hbt272@gmail.com</p>"
 }

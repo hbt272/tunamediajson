@@ -6,7 +6,8 @@
 	"showAdSequencePercent": 0.4,
 	"corsLink": "https://cors-anywhere.herokuapp.com/",
 	"kqxsLink": "http://xskt.com.vn",
-	"moreAppsUrl": "hbt272.github.io/tunamediajson/appsinfo/ds-app-tunamedia.json",
+	"message": "<p>Hiện tại ứng dụng đang gặp sự cố.</p><br><p> Admin đang khắc phục trong thời gian sớm nhất.</p><br><p><b>mong quí vị thông cảm!</b></p>",
+	"moreAppsUrl": "https://hbt272.github.io/tunamediajson/appsinfo/ds-app-tunamedia.json",
 	"adID":
 	{
 		"android":

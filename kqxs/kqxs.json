@@ -2,12 +2,16 @@
 	"package": "com.tunamedia.kqxs",
 	"isTesting": false,
 	"showAd": true,
-	"showAdPercent": 0.7,
+	"showAdPercent": 0.8,
+	"showAdPercent1": 0.6,
+	"showAdPercent2": 0.4,
+	"showAdPageChange": 0.3,
 	"showAdSequencePercent": 0.4,
 	"corsLink": "https://cors-anywhere.herokuapp.com/",
 	"kqxsLink": "http://xskt.com.vn",
 	"message": "<p>Hiện tại ứng dụng đang gặp sự cố.</p><br><p> Admin đang khắc phục trong thời gian sớm nhất.</p><br><p><b>mong quí vị thông cảm!</b></p>",
 	"moreAppsUrl": "https://hbt272.github.io/tunamediajson/appsinfo/ds-app-tunamedia.json",
+	"announce":"",
 	"adID":
 	{
 		"android":

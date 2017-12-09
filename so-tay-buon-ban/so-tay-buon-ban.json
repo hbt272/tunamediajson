@@ -3,272 +3,251 @@
     "showAd": true,
     "isTesting": false,
     "showAdPercent": 0.6,
-    "currentAdID":
-    {},
+    "currentAdID": {},
     "moreAppsUrl": "https://hbt272.github.io/tunamediajson/appsinfo/ds-app-tunamedia.json",
-    "adID":
-    {
-        "android":
-        {
+    "adID": {
+        "android": {
             "banner": "ca-app-pub-8525780142236607/9276531178",
             "interstitial": "ca-app-pub-8525780142236607/1753264377",
             "video": "",
             "custom": ""
         },
-        "ios":
-        {
+        "ios": {
             "banner": "",
             "interstitial": "",
             "video": "",
             "custom": ""
         },
-        "winphone":
-        {
+        "winphone": {
             "banner": "",
             "interstitial": "",
             "video": "",
             "custom": ""
         }
     },
-    "settingsDefault":
-    {
-        "bangTinh":
-        {
+    "settingsDefault": {
+        "bangTinh": {
             "type": "lua",
             "group": 5
         },
         "keyboardStyle": "dark",
-        "orderBy":
-        {
+        "orderBy": {
             "name": "Thời Gian Tạo",
             "id": "time",
             "value": "time"
         },
         "sort": "-"
     },
-    "defaultFormBangTinh":
-    {
-        "type": [
-        {
+    "defaultFormBangTinh": {
+        "type": [{
             "name": "type",
             "fullName": "Loại",
-            "options": [
-            {
-                "text": "Lúa",
-                "value": "lua"
-            },
-            {
-                "text": "Heo, Bò",
-                "value": "heobo"
-            },
-            {
-                "text": "Gà, Vịt",
-                "value": "gavit"
-            },
-            {
-                "text": "Cá",
-                "value": "ca"
-            },
-            {
-                "text": "Rau, Quả",
-                "value": "rauqua"
-            },
-            {
-                "text": "Khác",
-                "value": "zzzzzz"
-            }, ]
+            "options": [{
+                    "text": "Lúa",
+                    "value": "lua"
+                },
+                {
+                    "text": "Heo, Bò",
+                    "value": "heobo"
+                },
+                {
+                    "text": "Gà, Vịt",
+                    "value": "gavit"
+                },
+                {
+                    "text": "Cá",
+                    "value": "ca"
+                },
+                {
+                    "text": "Rau, Quả",
+                    "value": "rauqua"
+                },
+                {
+                    "text": "Khác",
+                    "value": "zzzzzz"
+                }
+            ]
         }],
-        "typeDetails":
-        {
-            "lua":
-            {
+        "typeDetails": {
+            "lua": {
                 "name": "Lúa",
                 "color": "yellow"
             },
-            "heobo":
-            {
+            "heobo": {
                 "name": "Heo, Bò",
                 "color": "oragin"
             },
-            "gavit":
-            {
+            "gavit": {
                 "name": "Gà, Vịt",
                 "color": "light-blue"
             },
-            "ca":
-            {
+            "ca": {
                 "name": "Cá",
                 "color": "light"
             },
-            "rauqua":
-            {
+            "rauqua": {
                 "name": "Rau, Quả",
                 "color": "green"
             },
-            "zzzzzz":
-            {
+            "zzzzzz": {
                 "name": "Khác",
                 "color": "red"
-            },
+            }
         },
-        "group": [
-        {
+        "group": [{
             "name": "group",
             "fullName": "Nhóm",
-            "options": [
-            {
-                "text": "1",
-                "value": 1
-            },
-            {
-                "text": "2",
-                "value": 2
-            },
-            {
-                "text": "3",
-                "value": 3
-            },
-            {
-                "text": "4",
-                "value": 4
-            },
-            {
-                "text": "5",
-                "value": 5
-            },
-            {
-                "text": "6",
-                "value": 6
-            },
-            {
-                "text": "7",
-                "value": 7
-            },
-            {
-                "text": "8",
-                "value": 8
-            },
-            {
-                "text": "9",
-                "value": 9
-            },
-            {
-                "text": "10",
-                "value": 10
-            },
-            {
-                "text": "20",
-                "value": 20
-            },
-            {
-                "text": "25",
-                "value": 25
-            },
-            {
-                "text": "30",
-                "value": 30
-            },
-            {
-                "text": "50",
-                "value": 50
-            },
-            {
-                "text": "100",
-                "value": 100
-            }, ]
+            "options": [{
+                    "text": "1",
+                    "value": 1
+                },
+                {
+                    "text": "2",
+                    "value": 2
+                },
+                {
+                    "text": "3",
+                    "value": 3
+                },
+                {
+                    "text": "4",
+                    "value": 4
+                },
+                {
+                    "text": "5",
+                    "value": 5
+                },
+                {
+                    "text": "6",
+                    "value": 6
+                },
+                {
+                    "text": "7",
+                    "value": 7
+                },
+                {
+                    "text": "8",
+                    "value": 8
+                },
+                {
+                    "text": "9",
+                    "value": 9
+                },
+                {
+                    "text": "10",
+                    "value": 10
+                },
+                {
+                    "text": "20",
+                    "value": 20
+                },
+                {
+                    "text": "25",
+                    "value": 25
+                },
+                {
+                    "text": "30",
+                    "value": 30
+                },
+                {
+                    "text": "50",
+                    "value": 50
+                },
+                {
+                    "text": "100",
+                    "value": 100
+                }
+            ]
         }],
-        "inputType": [
-        {
+        "inputType": [{
             "name": "inputType",
             "fullName": "Kiểu Nhập",
-            "options": [
-            {
-                "text": "Bàn Phím Số",
-                "value": 1
-            },
-            {
-                "text": "Bàn Phím Vuốt",
-                "value": 2
-            }, ]
+            "options": [{
+                    "text": "Bàn Phím Số",
+                    "value": 1
+                },
+                {
+                    "text": "Bàn Phím Vuốt",
+                    "value": 2
+                }
+            ]
         }],
-        "KeyboardStyle": [
-        {
+        "KeyboardStyle": [{
             "name": "keyboardStyle",
             "fullName": "Kiểu Bàn Phím",
-            "options": [
-            {
-                "text": "light",
-                "value": "light"
-            },
-            {
-                "text": "dark",
-                "value": "dark"
-            },
-            {
-                "text": "ionic",
-                "value": "ionic"
-            },
-            {
-                "text": "dusk",
-                "value": "dusk"
-            },
-            {
-                "text": "nepal",
-                "value": "nepal"
-            },
-            {
-                "text": "alihossein",
-                "value": "alihossein"
-            },
-            {
-                "text": "messenger",
-                "value": "messenger"
-            }, ]
+            "options": [{
+                    "text": "light",
+                    "value": "light"
+                },
+                {
+                    "text": "dark",
+                    "value": "dark"
+                },
+                {
+                    "text": "ionic",
+                    "value": "ionic"
+                },
+                {
+                    "text": "dusk",
+                    "value": "dusk"
+                },
+                {
+                    "text": "nepal",
+                    "value": "nepal"
+                },
+                {
+                    "text": "alihossein",
+                    "value": "alihossein"
+                },
+                {
+                    "text": "messenger",
+                    "value": "messenger"
+                }
+            ]
         }],
-        "phanle": [
-        {
+        "phanle": [{
             "name": "phanle",
             "fullName": "Phần Lẻ",
-            "options": [
-            {
-                "text": "0 .2 .4. .6 .8",
-                "value": 1
-            },
-            {
-                "text": ".1 .3 .5 .7 .9",
-                "value": 2
-            },
-            {
-                "text": "đầy đủ",
-                "value": 3
-            }, ]
+            "options": [{
+                    "text": "0 .2 .4. .6 .8",
+                    "value": 1
+                },
+                {
+                    "text": ".1 .3 .5 .7 .9",
+                    "value": 2
+                },
+                {
+                    "text": "đầy đủ",
+                    "value": 3
+                }
+            ]
         }],
         "dvTinh": "kg",
-        "orderBy": [
-        {
-            "name": "loại",
-            "id": "type",
-            "value": "type"
-        },
-        {
-            "name": "Thời Gian Tạo",
-            "id": "time",
-            "value": "time"
-        },
-        {
-            "name": "Sửa Gần Đây",
-            "id": "lastEdit",
-            "value": "lastEdit"
-        },
-        {
-            "name": "tổng",
-            "id": "total",
-            "value": "total"
-        },
-        {
-            "name": "số lượng",
-            "id": "data.length",
-            "value": "data.length"
-        }, ]
+        "orderBy": [{
+                "name": "loại",
+                "id": "type",
+                "value": "type"
+            },
+            {
+                "name": "Thời Gian Tạo",
+                "id": "time",
+                "value": "time"
+            },
+            {
+                "name": "Sửa Gần Đây",
+                "id": "lastEdit",
+                "value": "lastEdit"
+            },
+            {
+                "name": "tổng",
+                "id": "total",
+                "value": "total"
+            },
+            {
+                "name": "số lượng",
+                "id": "data.length",
+                "value": "data.length"
+            }
+        ]
     }
 }

@@ -1,0 +1,162 @@
+{
+        "package": "com.tunamedia.thaigiao",
+        "isTesting": true,
+        "showAd": true,
+        "showAdPercent": 0.8,
+        "showAdPercent1": 0.6,
+        "showAdPercent2": 0.4,
+        "showAdPageChange": 0.3,
+        "showAdSequencePercent": 0.4,
+        "corsLink": "https://cors-anywhere.herokuapp.com/",
+        "message": "",
+        "moreAppsUrl": "https://hbt272.github.io/tunamediajson/appsinfo/ds-app-tunamedia.json",
+        "myTracks": [{
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyMVNDMlU1Nl9pZUU",
+                "artist": "Kenny G",
+                "title": "Baby G",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track, set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyRjFmUk1SaEVfQ3M",
+                "artist": "Mozart",
+                "title": "Ton Koopman Divertimeto in D Major, K. 136",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyVHRrN1FWVFlIVDg",
+                "artist": "Mozart",
+                "title": "'Vorrei Spiegarvi, Oh Dio!', K. 418",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyc0RLaDN2Z01HQjQ",
+                "artist": "Mozart",
+                "title": "Eine Kleine Nachtmusik",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyRjJEZjRDa3J1SDg",
+                "artist": "Mozart",
+                "title": "Alla Turca",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyNEpIaTlReTFyM0k",
+                "artist": "Mozart",
+                "title": "Horn Concerto No.1, K. 412-514",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyTDA0cnp3OWREUlE",
+                "artist": "Mozart",
+                "title": "Variation On Ah Vousdiri-Je",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyc1lLY0hMeFlQOE0",
+                "artist": "Mozart",
+                "title": "Symphony No. 40 In Gminor, K550",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEycV9NOXV4Wmdpakk",
+                "artist": "Antonio Vivaldi",
+                "title": "Spring The 4 Seasons",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyQ1hlWjdITVRnR1U",
+                "artist": "Beethoven",
+                "title": "Beethoven Virus",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyT2xLNDNheEQzTGs",
+                "artist": "Beethoven",
+                "title": "Sonata No, 14 In C-Sharp Minor, Op.27, No. 2 'Moonlight'",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyQjd3cVI0dTQ5cWM",
+                "artist": "Beethoven",
+                "title": "Fur Elise lettre A Elise",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyN200VjR0ZmZEUHc",
+                "artist": "Beethoven",
+                "title": "Symphony No. 5 In C Minor, Op. 67",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyT19oSHR1d2wtTFE",
+                "artist": "Richard Claydeman",
+                "title": "Souvenirs D Enfance",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyZ1IzZHloWjUtLWM",
+                "artist": "Chopin",
+                "title": "Nocturne No. 2 In E-Flat Major, Op. 9,No. 2",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyTmFKN293SklRSzQ",
+                "artist": "Peter",
+                "title": "Fantasie In C Minor",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEybmRuc3Vqa0tyYUk",
+                "artist": "Brahms",
+                "title": "Hungarian Dance No. 5 In G Minor",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            },
+            {
+                "src": "http://drive.google.com/uc?export=download&id=0B88oQyzu5mEyVUhMUmZ0LWpuUG8",
+                "artist": "Kenny G",
+                "title": "My Heart Will Go On",
+                "art": "",
+                "preload": "metadata" // tell the plugin to "preload" metadata such as duration for this track,  set to "none" to turn off
+            }
+
+        ],
+        "adID": {
+            "android": {
+                "banner": "ca-app-pub-8525780142236607/4779709974",
+                "interstitial": "ca-app-pub-8525780142236607/5095937570",
+                "video": "",
+                "base": "ca-app-pub-8525780142236607/3529439571"
+            },
+            "ios": {
+                "banner": "",
+                "interstitial": "",
+                "video": "",
+                "custom": ""
+            },
+            "winphone": {
+                "banner": "",
+                "interstitial": "",
+                "video": "",
+                "custom": ""
+            }
+        },
+        "intro": "<p>Thai-giáo là ứng dụng hỗ trợ các mẹ đang mang thai thực hành thai giáo tốt.</p><p>Là một sản phẩm do Tuna Media Group thưc hiện</p><p>Contact - Coop: hbt272@gmail.com</p>"
+    }
